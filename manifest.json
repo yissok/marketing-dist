@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "app": "marketing",
+  "global": "__sveltekit_gom3wy",
+  "start": "_app/immutable/entry/start.BK9XgKTX.js",
+  "appEntry": "_app/immutable/entry/app.BVb7cmHZ.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/marketing-dist/_app/immutable/entry/start.BK9XgKTX.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/chunks/DJlJ2xih.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/chunks/BTRO9oLV.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/chunks/DI47PUql.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/entry/app.BVb7cmHZ.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/chunks/hxXntLlU.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/chunks/CpaiaOhA.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/chunks/BHWtfir7.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/chunks/D7cDR9np.js",
+    "https://yissok.github.io/marketing-dist/_app/immutable/nodes/0.Bg1K01kq.js"
+  ]
+}
